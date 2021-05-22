@@ -1,0 +1,15 @@
+{
+	"name": "greetingApp",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/LouRaul/greetingApp.git",
+	"author": "LouRaul <loureiroraul@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2"
+	},
+	"scripts": {
+		"start": "parcel index.html --open"
+	}
+}
